@@ -1,0 +1,5 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" class="page">
+    <GridLayout loaded="uiLoaded">
+        <Label text="hiiiii"></Label>
+    </GridLayout>
+</Page>
